@@ -7,15 +7,19 @@ A collection of sticker designs.
 ## Designs
 Each folder contains the designs in png-format. One filename contains 'outline' and includes the same design but with a white outline and a grey background. So in case you want to print it directly in its original shape select this file and change the gray tone to a transparent background.
 
-*Image:*
-![A drawing of the upper body of a female figure from her lips down to her belly button. The end of the figure as well as the lips look like pink-rose slime is dripping from it.](https://github.com/DasUnicorn/stickIt/blob/main/Slime/slime.png?raw=true)
+### Image
 
-*Image with outline:*
-![A drawing of the upper body of a female figure from her lips down to her belly button. The end of the figure as well as the lips look like pink-rose slime is dripping from it. Around the whole drawing is a white outline so the sticker stands out in front of the grey background.](https://github.com/DasUnicorn/stickIt/blob/main/Slime/slime-outline.png?raw=true)
+<img src="https://github.com/DasUnicorn/stickIt/blob/main/Slime/slime.png" alt="A drawing of the upper body of a female figure from her lips down to her belly button. The end of the figure as well as the lips look like pink-rose slime is dripping from it." width="200">
+
+
+### Image with outline:
+
+<img src="https://github.com/DasUnicorn/stickIt/blob/main/Slime/slime-outline.png" alt="A drawing of the upper body of a female figure from her lips down to her belly button. The end of the figure as well as the lips look like pink-rose slime is dripping from it. Around the whole drawing is a white outline so the sticker stands out in front of the grey background." width="200">
+
 
 ## Size
 
-When nothing else is specified, each template has a maximum DIN A4 size.
+When nothing else is specified, each templates maximum is DIN A4 (2480 x 3508 pixel).
 
 ## Can I use them?
 You are free to:
